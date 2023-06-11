@@ -1,0 +1,68 @@
+        <div style="padding: 150px 100px;">
+             <h1 style="padding: 20px;">Let's Transform Your Home</h1>
+
+             <p>Our goal is to bring your visions to life. Your home is a special place where you can relax, make memories, and share experiences in. Knowing that, we work hard to ensure that you are truly satisfied and enjoy your home.
+
+             </p>
+        </div>
+
+        <div style="padding: 100px 100px;">
+            <img style="width: 600px; height: 40vh;" src="./img/84770f_59a5515ed0ea48efb3f1a7e3ce3098cc~mv2.webp" alt="">
+        </div>
+
+
+        css2?family
+
+
+.kanu2{
+    height: 60vh;
+    background-color: white;
+    display: flex;
+    
+    
+    }
+    .kanu2 p{
+        font-size: 16px;
+        font-family: 'Dosis', sans-serif;
+        font-weight: 500;
+        padding-top: 30px;
+    
+    }
+    
+    .kanu2 h1{
+        font-family: 'Dosis', sans-serif;
+        padding-bottom: 40px;
+    }
+
+
+
+    ydhfghjkl
+
+
+
+    <div style="justify-content: center; align-items: center; display: block;">
+            <Header class="juju">
+                What We Do
+            </Header>
+        </div>
+        
+        <div class="separator" style="margin: 50px;"></div>
+
+
+        <div class="residential" style="">
+            <h1>Residential</h1>
+
+            <h1>Comercial</h1>
+
+            <h1>Hospitality</h1>
+
+        </div>
+
+        <div>
+
+            <p>
+                
+            </p>
+        </div>
+
+    
